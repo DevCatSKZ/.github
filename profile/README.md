@@ -17,7 +17,7 @@
       <sub><i>Kodi add-ons with automatic updates.</i></sub>
     </td>
     <td align="center" width="240">
-      <a href="https://devcatskz.github.io/Catnewz/"><img src="https://devcatskz.github.io/Catnewz/assets/cat.png" width="96" alt=""></a><br>
+      <a href="https://devcatskz.github.io/Catnewz/"><img src="https://devcatskz.github.io/Catnewz/assets/app-icon.png" width="96" alt=""></a><br>
       <b><a href="https://devcatskz.github.io/Catnewz/">Catnewz</a></b><br>
       Katzen-News nach Stimmung sortiert – für Android und Kodi.<br>
       <sub><i>Cat news sorted by mood – for Android and Kodi.</i></sub>
